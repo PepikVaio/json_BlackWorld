@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "id": 001,
+      "id": 1,
       "title": "Mini for YouTube",
       "icon_path": "/Al8dDMOtPr5a3V3ZSG65NICx7CI.jpg",
       "poster_path": "https://onedrive.live.com/?cid=0FC41D892FA43512&id=FC41D892FA43512%219753&parId=FC41D892FA43512%219752&o=OneUp",
@@ -10,7 +10,7 @@
       "release_date": "2020-02-01"
     },
         {
-      "id": 002,
+      "id": 2,
       "title": "Mini for Facebook",
       "icon_path": "/Al8dDMOtPr5a3V3ZSG65NICx7CI.jpg",
       "poster_path": "/Al8dDMOtPr5a3V3ZSG65NICx7CI.jpg",
