@@ -1,47 +1,11 @@
 {
-	"page": 1,
-	"total_results": 10000,
-	"total_pages": 500,
-	"results": [{
-			"popularity": 389.165,
-			"vote_count": 2281,
-			"video": false,
-			"poster_path": "/Al8dDMOtPr5a3V3ZSG65NICx7CI.jpg",
-			"id": 419704,
-			"adult": false,
-			"backdrop_path": "/5BwqwxMEjeFtdknRV792Svo0K1v.jpg",
-			"original_language": "en",
-			"original_title": "Ad Astra",
-			"genre_ids": [
-				12,
-				18,
-				9648,
-				878,
-				53
-			],
-			"title": "Ad Astra",
-			"vote_average": 6,
-			"overview": "Před dvaceti lety se vydal na jednosměrnou cestu k Neptunu otec vesmírného inženýra Roye McBridea. Jeho cílem bylo vyhledat známky mimozemské civilizace. Lehce autistický McBride nyní cestuje na okraj sluneční soustavy v jeho stopách. Chtěl by najít otce a pochopit, proč jeho mise selhala. Při cestě začíná odhalovat tajemství, které ohrožuje přežití naší planety.",
-			"release_date": "2019-09-17"
-		},
-		{
-			"popularity": 71.928,
-			"id": 331482,
-			"video": false,
-			"vote_count": 1068,
-			"vote_average": 8,
-			"title": "Malé ženy",
-			"release_date": "2019-12-25",
-			"original_language": "en",
-			"original_title": "Little Women",
-			"genre_ids": [
-				18,
-				10749
-			],
-			"backdrop_path": "/3uTxPIdVEXxHpsHOHdJC24QebBV.jpg",
-			"adult": false,
-			"overview": "Příběh sester Marchových – čtyř mladých žen, z nichž každá je odhodlaná prožít život podle svého.",
-			"poster_path": "/o7W15Wio2gWyjaaCxQp5eSZ17eT.jpg"
-		}
-	]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
