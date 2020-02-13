@@ -1,31 +1,51 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "zkouska3"
-    },
-    {
-      "id": 2,
-      "title": "json"
-    },
-    {
-      "id": 3,
-      "title": "github"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"page": 1,
+	"total_results": 35,
+	"total_pages": 2,
+	"results": [{
+		"popularity": 16.565,
+		"id": 1927,
+		"video": false,
+		"vote_count": 3549,
+		"vote_average": 5.4,
+		"title": "Hulk",
+		"release_date": "2003-06-19",
+		"original_language": "en",
+		"original_title": "Hulk",
+		"genre_ids": [28, 878],
+		"backdrop_path": "\/kVxquPLBzAIq2NmlbWjTsfZBFh5.jpg",
+		"adult": false,
+		"overview": "Bruce Banner, vědec každým coulem, má všechny důvody ke zlosti na své nadřízené. Jeho převratná vědecká práce, která by mohla změnit pohled na možnosti genetické technologie, je zapomenutou a pro jejího autora stále bolestivou minulostí. Jen Betty Rossová, skvělá spolupracovnice a někdejší Bruceova přítelkyně, se snaží uchránit ho před dalšími střety a konflikty. Stala se totiž svědkem neúspěšného pokusu, kdy byl Bruce, ve snaze zabránit explozi a zachránit si holý život, vystaven smrtelné dávce záření gama. Zdánlivě se nic nestalo, ale jednoho dne opustil svou laboratoř jako obrovské monstrum. Čtyřmetrový zelený svalovec, známý jako Hulk, zanechává za sebou jen trosky. Armáda je uvedena do stavu nejvyšší pohotovosti. Betty tuší souvislosti, ale ve svém boji o záchranu zeleného giganta i blízkého člověka je téměř osamělá.",
+		"poster_path": "\/ogCQV6mnLtCJuiiHtMB83jvSRfY.jpg"
+	}, {
+		"popularity": 0.935,
+		"vote_count": 1,
+		"video": true,
+		"poster_path": "\/xHetXFQ8c4qeErv57tBHDi0LSOE.jpg",
+		"id": 477241,
+		"adult": false,
+		"backdrop_path": null,
+		"original_language": "en",
+		"original_title": "WWE: Hulk Hogan's Unreleased Collector's Series",
+		"genre_ids": [28],
+		"title": "WWE: Hulk Hogan's Unreleased Collector's Series",
+		"vote_average": 7,
+		"overview": "",
+		"release_date": "2009-11-17"
+	}, {
+		"popularity": 0.624,
+		"id": 586842,
+		"video": true,
+		"vote_count": 1,
+		"vote_average": 10,
+		"title": "WWE: Hollywood Hulk Hogan - Hulk Still Rules",
+		"release_date": "2002-08-19",
+		"original_language": "en",
+		"original_title": "WWE: Hollywood Hulk Hogan - Hulk Still Rules",
+		"genre_ids": [99],
+		"backdrop_path": "\/7yM1nQruAs4TDvyNgkykrVWgTXi.jpg",
+		"adult": false,
+		"overview": "",
+		"poster_path": "\/l0aV3gETwxuF6O6qnM7DxICPPs5.jpg"
+	}]
 }
