@@ -1,8 +1,4 @@
 {
-	"page": 1,
-	"total_results": 35,
-	"total_pages": 2,
-	"results": [{
 		"popularity": 16.565,
 		"id": 1927,
 		"video": false,
@@ -47,5 +43,5 @@
 		"adult": false,
 		"overview": "",
 		"poster_path": "\/l0aV3gETwxuF6O6qnM7DxICPPs5.jpg"
-	}]
+	}
 }
