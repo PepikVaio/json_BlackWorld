@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Mini for YouTube",
       "icon_path": "/Al8dDMOtPr5a3V3ZSG65NICx7CI.jpg",
-      "poster_path": "https://onedrive.live.com/?cid=0FC41D892FA43512&id=FC41D892FA43512%219753&parId=FC41D892FA43512%219752&o=OneUp",
+      "poster_path": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lancia_Thesis_Kappa_20071211.jpg",
       "video_path": false,
       "overview": "The Mini for YouTube application displays the website 'https://m.youtube.com/' in the native BlackBerry browser.",
       "release_date": "2020-02-01"
@@ -13,9 +13,27 @@
       "id": 2,
       "title": "Mini for Facebook",
       "icon_path": "/Al8dDMOtPr5a3V3ZSG65NICx7CI.jpg",
-      "poster_path": "/Al8dDMOtPr5a3V3ZSG65NICx7CI.jpg",
+      "poster_path": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lancia_Kappa_front_20080722.jpg",
       "video_path": false,
       "overview": "The Mini for Facebook application displays the website 'https://touch.facebook.com/' in the native BlackBerry browser.",
+      "release_date": "2020-02-05"
+    },
+    {
+      "id": 3,
+      "title": "Zkouška",
+      "icon_path": "/Al8dDMOtPr5a3V3ZSG65NICx7CI.jpg",
+      "poster_path": "https://d62-a.sdn.cz/d_62/c_img_F_D/UNJ1e.png?fl=cro,0,0,1116,825%7Cres,1200,,1%7Cwebp,75",
+      "video_path": false,
+      "overview": "Empty",
+      "release_date": "2020-02-05"
+    },
+    {
+      "id": 4,
+      "title": "Zkouška 2",
+      "icon_path": "/Al8dDMOtPr5a3V3ZSG65NICx7CI.jpg",
+      "poster_path": "https://d62-a.sdn.cz/d_62/c_img_E_E/sAyBay/Lancia.jpeg?fl=cro,0,0,1415,800%7Cres,1200,,1%7Cwebp,75",
+      "video_path": false,
+      "overview": "Empty 2",
       "release_date": "2020-02-05"
     }
   ]
