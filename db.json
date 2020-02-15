@@ -20,11 +20,11 @@
     },
     {
       "id": 3,
-      "title": "Instagram4",
+      "title": "Instagram",
       "description": "web app",
-      "overview": "Klasický Instagram :)",
+      "overview": "The Mini for Instagram application displays the website 'https://instagram.com/' in the native BlackBerry browser.",
       "version": "2020-02-01",
-      "icon_path": "https://live.staticflickr.com/65535/49536163797_696bc7eb63_m.jpg",
+      "icon_path": "https://cdn.pixabay.com/photo/2016/07/03/18/36/youtube-1495277_960_720.png",
       "url_path": "http://blackworld.zombeek.cz/Mini_for_Instagram.html"
     }
   ]
