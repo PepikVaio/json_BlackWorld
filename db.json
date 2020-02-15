@@ -6,37 +6,24 @@
       "description": "web app",
       "icon_path": "https://cdn.pixabay.com/photo/2016/07/03/18/36/youtube-1495277_960_720.png",
       "overview": "The Mini for YouTube application displays the website 'https://m.youtube.com/' in the native BlackBerry browser.",
+      "version": "2020-02-01"
       "url_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html",
-      "release_date": "2020-02-01"
     },
         {
       "id": 2,
       "title": "Mini for Facebook",
-      "url_path": "http://blackworld.zombeek.cz/Mini_for_Facebook.html",
       "icon_path": "https://cdn.pixabay.com/photo/2016/07/03/18/35/messenger-1495274_960_720.png",
-      "poster_path": "https://upload.wikimedia.org/wikipedia/commons/9/90/Lancia_Kappa_front_20080722.jpg",
-      "video_path": false,
       "overview": "The Mini for Facebook application displays the website 'https://touch.facebook.com/' in the native BlackBerry browser.",
-      "release_date": "2020-02-05"
+      "version": "2020-02-01"
+      "url_path": "http://blackworld.zombeek.cz/Mini_for_Facebook.html",
     },
     {
       "id": 3,
       "title": "Instagram4",
-      "url_path": "http://blackworld.zombeek.cz/Mini_for_Instagram.html",
       "icon_path": "https://live.staticflickr.com/65535/49536163797_696bc7eb63_m.jpg",
-      "poster_path": "https://d62-a.sdn.cz/d_62/c_img_F_D/UNJ1e.png?fl=cro,0,0,1116,825%7Cres,1200,,1%7Cwebp,75",
-      "video_path": false,
       "overview": "Klasický Instagram :)",
-      "release_date": "2020-02-05"
-    },
-    {
-      "id": 4,
-      "title": "Zkouška 2",
-      "icon_path": "https://cdn.pixabay.com/photo/2016/04/07/22/09/luck-1314937_960_720.png",
-      "poster_path": "https://d62-a.sdn.cz/d_62/c_img_E_E/sAyBay/Lancia.jpeg?fl=cro,0,0,1415,800%7Cres,1200,,1%7Cwebp,75",
-      "video_path": false,
-      "overview": "Empty 2",
-      "release_date": "2020-02-05"
+      "version": "2020-02-01"
+      "url_path": "http://blackworld.zombeek.cz/Mini_for_Instagram.html",
     }
   ]
 }
