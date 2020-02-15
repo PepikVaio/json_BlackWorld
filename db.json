@@ -3,12 +3,10 @@
     {
       "id": 1,
       "title": "Mini for YouTube",
-      "url_download": "application/views/publikace/31956/r1op4r/uploaded_files/youtube_web-1_1_2_7.bar",
-      "url_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html",
+      "description": "web app",
       "icon_path": "https://cdn.pixabay.com/photo/2016/07/03/18/36/youtube-1495277_960_720.png",
-      "poster_path": "https://upload.wikimedia.org/wikipedia/commons/6/69/Lancia_Thesis_Kappa_20071211.jpg",
-      "video_path": false,
       "overview": "The Mini for YouTube application displays the website 'https://m.youtube.com/' in the native BlackBerry browser.",
+      "url_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html",
       "release_date": "2020-02-01"
     },
         {
