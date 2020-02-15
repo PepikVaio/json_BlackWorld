@@ -4,26 +4,28 @@
       "id": 1,
       "title": "Mini for YouTube",
       "description": "web app",
-      "icon_path": "https://cdn.pixabay.com/photo/2016/07/03/18/36/youtube-1495277_960_720.png",
       "overview": "The Mini for YouTube application displays the website 'https://m.youtube.com/' in the native BlackBerry browser.",
-      "version": "2020-02-01"
-      "url_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html",
+      "version": "2020-02-01",
+      "icon_path": "https://cdn.pixabay.com/photo/2016/07/03/18/36/youtube-1495277_960_720.png",
+      "url_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html"
     },
         {
       "id": 2,
       "title": "Mini for Facebook",
-      "icon_path": "https://cdn.pixabay.com/photo/2016/07/03/18/35/messenger-1495274_960_720.png",
+      "description": "web app",
       "overview": "The Mini for Facebook application displays the website 'https://touch.facebook.com/' in the native BlackBerry browser.",
-      "version": "2020-02-01"
-      "url_path": "http://blackworld.zombeek.cz/Mini_for_Facebook.html",
+      "version": "2020-02-01",
+      "icon_path": "https://cdn.pixabay.com/photo/2016/07/03/18/35/messenger-1495274_960_720.png",
+      "url_path": "http://blackworld.zombeek.cz/Mini_for_Facebook.html"
     },
     {
       "id": 3,
       "title": "Instagram4",
-      "icon_path": "https://live.staticflickr.com/65535/49536163797_696bc7eb63_m.jpg",
+      "description": "web app",
       "overview": "Klasický Instagram :)",
-      "version": "2020-02-01"
-      "url_path": "http://blackworld.zombeek.cz/Mini_for_Instagram.html",
+      "version": "2020-02-01",
+      "icon_path": "https://live.staticflickr.com/65535/49536163797_696bc7eb63_m.jpg",
+      "url_path": "http://blackworld.zombeek.cz/Mini_for_Instagram.html"
     }
   ]
 }
