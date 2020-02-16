@@ -37,7 +37,7 @@
           "id": 1,
           "description": "web app",
           "title": "Mini for Bazoš",
-          "overview": "The Mini for Bazos application displays the website 'http://bazos.cz/' in the native BlackBerry browser.",
+          "overview": "The Mini for Bazoš application displays the website 'http://bazos.cz/' in the native BlackBerry browser.",
           "icon_path": "",
           "url_path": ""
         },
@@ -45,7 +45,7 @@
           "id": 2,
           "description": "web app",
           "title": "Minif for Kinohled",
-          "overview": "The Mini for Bazos application displays the website 'http://kinohled.cz/' in the native BlackBerry browser.",
+          "overview": "The Mini for Kinohled application displays the website 'http://kinohled.cz/' in the native BlackBerry browser.",
           "icon_path": "",
           "url_path": ""
         },
