@@ -1,123 +1,133 @@
 {
-      "news": [
-        {
-          "id": 1,
-          "version": "1.0.0.1",
-          "description": "web app",
-          "title": "Mini for YouTube",
-          "overview": "The Mini for YouTube application displays the website 'http://m.youtube.com/'' in the native BlackBerrybrowser.",
-          "icon_path": "https://i.postimg.cc/ht0sNdQN/icon-300x300.png",
-          "url_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html"
-        },
-        {
-          "id": 2,
-          "version": "1.2.0.4",
-          "description": "web app",
-          "title": "Mini for Facebook",
-          "overview": "The Mini for Facebook application displays the website 'https://touch.facebook.com/' in the native BlackBerry browser.",
-          "icon_path": "https://i.postimg.cc/bv3n90SN/icon-300x300.png",
-          "url_path": "http://blackworld.zombeek.cz/Mini_for_Facebook.html"
-        },
-        {
-          "id": 3,
-          "version": "1.0.2.3",
-          "description": "web app",
-          "title": "Mini for Instagram",
-          "overview": "The Mini for Instagram application displays the website 'https://instagram.com/' in the native BlackBerry browser.",
-          "icon_path": "https://i.postimg.cc/JhDD2d00/Icon-300x300.png",
-          "url_path": "http://blackworld.zombeek.cz/Mini_for_Instagram.html"
-        }
-      ],
-      "upcoming": [
-        {
-          "id": 1,
-          "description": "web app",
-          "title": "Mini for Bazoš",
-          "overview": "The Mini for Bazoš application displays the website 'http://bazos.cz/' in the native BlackBerry browser.",
-          "icon_path": "",
-          "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-        },
-        {
-          "id": 2,
-          "description": "web app",
-          "title": "Mini for Kinohled",
-          "overview": "The Mini for Kinohled application displays the website 'http://kinohled.cz/' in the native BlackBerry browser.",
-          "icon_path": "",
-          "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-        },
-        {
-          "id": 3,
-          "description": "web app",
-          "title": "Mini for Wikipedia",
-          "overview": "The Mini for Wikipedia application displays the website 'http://wikipedia.org/' in the native BlackBerry browser.",
-          "icon_path": "",
-          "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-        },
-        {
-          "id": 4,
-          "description": "web app",
-          "title": "Mini for Amazon (maybe)",
-          "overview": "The Mini for Amazon application displays the website 'http://amazon.com/' in the native BlackBerry browser.",
-          "icon_path": "",
-          "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-        },
-        {
-          "id": 5,
-          "description": "web app",
-          "title": "Mini for Yelp (maybe)",
-          "overview": "The Mini for Yelp application displays the website 'http://m.yelp.com/' in the native BlackBerry browser.",
-          "icon_path": "",
-          "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-        },
-        {
-          "id": 6,
-          "description": "web app",
-          "title": "Mini for Imdb",
-          "overview": "The Mini for Imdb application displays the website 'http://m.imdb.com/' in the native BlackBerry browser.",
-          "icon_path": "",
-          "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-        },
-        {
-          "id": 7,
-          "description": "web app",
-          "title": "Mini for AlliExpress",
-          "overview": "The Mini for AlliExpress application displays the website 'http://alliexpress.com/' in the native BlackBerry browser.",
-          "icon_path": "",
-          "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-        },
-        {
-          "id": 8,
-          "description": "web app",
-          "title": "Mini for Pinterest",
-          "overview": "The Mini for Pinterest application displays the website 'http://pinterest.com/' in the native BlackBerry browser.",
-          "icon_path": "",
-          "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-        },
-        {
-          "id": 9,
-          "description": "web app",
-          "title": "Mini for AlliExpress",
-          "overview": "The Mini for AlliExpress application displays the website 'http://alliexpress.com/' in the native BlackBerry browser.",
-          "icon_path": "",
-          "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-        },
-                {
-          "id": 10,
-          "description": "web app",
-          "title": "Mini for Booking",
-          "overview": "The Mini for Booking application displays the website 'http://booking.com/' in the native BlackBerry browser.",
-          "icon_path": "",
-          "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-        },
-                        {
-          "id": 11,
-          "description": "web app",
-          "title": "Mini for CD",
-          "overview": "The Mini for CD application displays the website 'http://m.cd.cz/' in the native BlackBerry browser.",
-          "icon_path": "",
-          "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-        }
-      ],
-      "beta": [
-      ]
+  "news": [
+    {
+      "id": 1,
+      "version": "1.0.0.1",
+      "description": "web app",
+      "title": "Mini for YouTube",
+      "overview": "The Mini for YouTube application displays the website 'http://m.youtube.com/'' in the native BlackBerrybrowser.",
+      "icon_path": "https://i.postimg.cc/ht0sNdQN/icon-300x300.png",
+      "url_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html"
+    },
+    {
+      "id": 2,
+      "version": "1.2.0.4",
+      "description": "web app",
+      "title": "Mini for Facebook",
+      "overview": "The Mini for Facebook application displays the website 'https://touch.facebook.com/' in the native BlackBerry browser.",
+      "icon_path": "https://i.postimg.cc/bv3n90SN/icon-300x300.png",
+      "url_path": "http://blackworld.zombeek.cz/Mini_for_Facebook.html"
+    },
+    {
+      "id": 3,
+      "version": "1.0.2.3",
+      "description": "web app",
+      "title": "Mini for Instagram",
+      "overview": "The Mini for Instagram application displays the website 'https://instagram.com/' in the native BlackBerry browser.",
+      "icon_path": "https://i.postimg.cc/JhDD2d00/Icon-300x300.png",
+      "url_path": "http://blackworld.zombeek.cz/Mini_for_Instagram.html"
+    }
+  ],
+  "upcoming": [
+    {
+      "id": 1,
+      "description": "web app",
+      "title": "Mini for Bazoš",
+      "completed": "Completed in 0%",
+      "overview": "The Mini for Bazoš application displays the website 'http://bazos.cz/' in the native BlackBerry browser.",
+      "icon_path": "",
+      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+    },
+    {
+      "id": 2,
+      "description": "web app",
+      "title": "Mini for Kinohled",
+      "completed": "Completed in 0%",
+      "overview": "The Mini for Kinohled application displays the website 'http://kinohled.cz/' in the native BlackBerry browser.",
+      "icon_path": "",
+      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+    },
+    {
+      "id": 3,
+      "description": "web app",
+      "title": "Mini for Wikipedia",
+      "completed": "Completed in 0%",
+      "overview": "The Mini for Wikipedia application displays the website 'http://wikipedia.org/' in the native BlackBerry browser.",
+      "icon_path": "",
+      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+    },
+    {
+      "id": 4,
+      "description": "web app",
+      "title": "Mini for Amazon (maybe)",
+      "completed": "Completed in 0%",
+      "overview": "The Mini for Amazon application displays the website 'http://amazon.com/' in the native BlackBerry browser.",
+      "icon_path": "",
+      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+    },
+    {
+      "id": 5,
+      "description": "web app",
+      "title": "Mini for Yelp (maybe)",
+      "completed": "Completed in 0%",
+      "overview": "The Mini for Yelp application displays the website 'http://m.yelp.com/' in the native BlackBerry browser.",
+      "icon_path": "",
+      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+    },
+    {
+      "id": 6,
+      "description": "web app",
+      "title": "Mini for Imdb",
+      "completed": "Completed in 0%",
+      "overview": "The Mini for Imdb application displays the website 'http://m.imdb.com/' in the native BlackBerry browser.",
+      "icon_path": "",
+      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+    },
+    {
+      "id": 7,
+      "description": "web app",
+      "title": "Mini for AlliExpress",
+      "completed": "Completed in 0%",
+      "overview": "The Mini for AlliExpress application displays the website 'http://alliexpress.com/' in the native BlackBerry browser.",
+      "icon_path": "",
+      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+    },
+    {
+      "id": 8,
+      "description": "web app",
+      "title": "Mini for Pinterest",
+      "completed": "Completed in 0%",
+      "overview": "The Mini for Pinterest application displays the website 'http://pinterest.com/' in the native BlackBerry browser.",
+      "icon_path": "",
+      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+    },
+    {
+      "id": 9,
+      "description": "web app",
+      "title": "Mini for AlliExpress",
+      "completed": "Completed in 0%",
+      "overview": "The Mini for AlliExpress application displays the website 'http://alliexpress.com/' in the native BlackBerry browser.",
+      "icon_path": "",
+      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+    },
+    {
+      "id": 10,
+      "description": "web app",
+      "title": "Mini for Booking",
+      "completed": "Completed in 0%",
+      "overview": "The Mini for Booking application displays the website 'http://booking.com/' in the native BlackBerry browser.",
+      "icon_path": "",
+      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+    },
+    {
+      "id": 11,
+      "description": "web app",
+      "title": "Mini for CD",
+      "completed": "Completed in 0%",
+      "overview": "The Mini for CD application displays the website 'http://m.cd.cz/' in the native BlackBerry browser.",
+      "icon_path": "",
+      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+    }
+  ],
+  "beta": []
 }
