@@ -6,7 +6,7 @@
       "description": "web app",
       "title": "Mini for YouTube",
       "overview": "The Mini for YouTube application displays the website 'https://m.youtube.com/' in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/x1F5DM1p/Icon-300x300.png",
+      "icon_path": "https://i.postimg.cc/FFqzkxHV/icon-250x250.png",
       "url_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html"
     },
         {
@@ -16,7 +16,7 @@
       "title": "Mini for Facebook",
       "overview": "The Mini for Facebook application displays the website 'https://touch.facebook.com/' in the native BlackBerry browser.",
       "icon_path2": "https://cdn.pixabay.com/photo/2016/07/03/18/35/messenger-1495274_960_720.png",
-      "icon_path": "http://1iq.cz/img/V2r2A/NZ5fR.png",
+      "icon_path": "https://i.postimg.cc/FK9HXWTN/icon-250x250.png",
       "url_path": "http://blackworld.zombeek.cz/Mini_for_Facebook.html"
     },
     {
