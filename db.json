@@ -40,7 +40,7 @@
         {
           "id": 2,
           "description": "web app",
-          "title": "Minif for Kinohled",
+          "title": "Mini for Kinohled",
           "overview": "The Mini for Kinohled application displays the website 'http://kinohled.cz/' in the native BlackBerry browser.",
           "icon_path": "",
           "url_path": ""
@@ -48,7 +48,7 @@
         {
           "id": 3,
           "description": "web app",
-          "title": "Minif for Wikipedia",
+          "title": "Mini for Wikipedia",
           "overview": "The Mini for Wikipedia application displays the website 'http://wikipedia.org/' in the native BlackBerry browser.",
           "icon_path": "",
           "url_path": ""
@@ -56,7 +56,7 @@
         {
           "id": 4,
           "description": "web app",
-          "title": "Minif for Amazon (maybe)",
+          "title": "Mini for Amazon (maybe)",
           "overview": "The Mini for Amazon application displays the website 'http://amazon.com/' in the native BlackBerry browser.",
           "icon_path": "",
           "url_path": ""
@@ -64,7 +64,7 @@
         {
           "id": 5,
           "description": "web app",
-          "title": "Minif for Yelp (maybe)",
+          "title": "Mini for Yelp (maybe)",
           "overview": "The Mini for Yelp application displays the website 'http://m.yelp.com/' in the native BlackBerry browser.",
           "icon_path": "",
           "url_path": ""
@@ -72,7 +72,7 @@
         {
           "id": 6,
           "description": "web app",
-          "title": "Minif for Imdb",
+          "title": "Mini for Imdb",
           "overview": "The Mini for Imdb application displays the website 'http://m.imdb.com/' in the native BlackBerry browser.",
           "icon_path": "",
           "url_path": ""
@@ -80,7 +80,7 @@
         {
           "id": 7,
           "description": "web app",
-          "title": "Minif for AlliExpress",
+          "title": "Mini for AlliExpress",
           "overview": "The Mini for AlliExpress application displays the website 'http://alliexpress.com/' in the native BlackBerry browser.",
           "icon_path": "",
           "url_path": ""
@@ -88,7 +88,7 @@
         {
           "id": 8,
           "description": "web app",
-          "title": "Minif for Pinterest",
+          "title": "Mini for Pinterest",
           "overview": "The Mini for Pinterest application displays the website 'http://pinterest.com/' in the native BlackBerry browser.",
           "icon_path": "",
           "url_path": ""
@@ -96,7 +96,7 @@
         {
           "id": 9,
           "description": "web app",
-          "title": "Minif for AlliExpress",
+          "title": "Mini for AlliExpress",
           "overview": "The Mini for AlliExpress application displays the website 'http://alliexpress.com/' in the native BlackBerry browser.",
           "icon_path": "",
           "url_path": ""
@@ -104,7 +104,7 @@
                 {
           "id": 10,
           "description": "web app",
-          "title": "Minif for Booking",
+          "title": "Mini for Booking",
           "overview": "The Mini for Booking application displays the website 'http://booking.com/' in the native BlackBerry browser.",
           "icon_path": "",
           "url_path": ""
@@ -112,7 +112,7 @@
                         {
           "id": 11,
           "description": "web app",
-          "title": "Minif for CD",
+          "title": "Mini for CD",
           "overview": "The Mini for CD application displays the website 'http://m.cd.cz/' in the native BlackBerry browser.",
           "icon_path": "",
           "url_path": ""
