@@ -1,7 +1,6 @@
-# zkouska_json
-zkouska_json
+# Json for BlackWorld
 
-http://my-json-server.typicode.com/pepikvaio/zkouska_json/db
+http://my-json-server.typicode.com/pepikvaio/json_blackworld/db
 
 https://github.com/sponsors/typicode
 
