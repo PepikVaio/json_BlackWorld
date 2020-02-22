@@ -1,7 +1,7 @@
 {
   "news": [
     {
-      "url_id": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
+      "urlpage": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
       "id": 1,
       "version": "1.0.0.1",
       "description": "web app",
@@ -11,6 +11,7 @@
       "url_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html"
     },
     {
+      "urlpage": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
       "id": 2,
       "version": "1.2.0.4",
       "description": "web app",
@@ -20,6 +21,7 @@
       "url_path": "http://blackworld.zombeek.cz/Mini_for_Facebook.html"
     },
     {
+      "urlpage": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
       "id": 3,
       "version": "1.0.2.3",
       "description": "web app",
