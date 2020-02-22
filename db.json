@@ -1,6 +1,7 @@
 {
   "news": [
     {
+      "url_id": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db"
       "id": 1,
       "version": "1.0.0.1",
       "description": "web app",
