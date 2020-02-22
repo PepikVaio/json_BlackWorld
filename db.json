@@ -1,14 +1,14 @@
 {
   "news": [
     {
-      "urlpage": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
+      "urlpage": "http://blackworld.zombeek.cz/Mini_for_YouTube.html",
       "id": 1,
       "version": "1.0.0.1",
       "description": "web app",
       "title": "Mini for YouTube",
       "overview": "The Mini for YouTube application displays the website 'http://m.youtube.com/'' in the native BlackBerrybrowser.",
       "icon_path": "https://i.postimg.cc/FK9HXWTN/icon-250x250.png",
-      "url_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html"
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db"
     },
     {
       "urlpage": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
