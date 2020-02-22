@@ -1,39 +1,40 @@
 {
   "news": [
     {
-      "urlpage": "http://blackworld.zombeek.cz/Mini_for_YouTube.html",
       "id": 1,
       "version": "1.0.0.1",
       "description": "web app",
       "title": "Mini for YouTube",
       "overview": "The Mini for YouTube application displays the website 'http://m.youtube.com/'' in the native BlackBerrybrowser.",
       "icon_path": "https://i.postimg.cc/FK9HXWTN/icon-250x250.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db"
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
+      "html_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html"
     },
     {
-      "urlpage": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
       "id": 2,
       "version": "1.2.0.4",
       "description": "web app",
       "title": "Mini for Facebook",
       "overview": "The Mini for Facebook application displays the website 'https://touch.facebook.com/' in the native BlackBerry browser.",
       "icon_path": "https://i.postimg.cc/FFqzkxHV/icon-250x250.png",
-      "url_path": "http://blackworld.zombeek.cz/Mini_for_Facebook.html"
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
+      "html_path": "http://blackworld.zombeek.cz/Mini_for_Facebook.html"
     },
     {
-      "urlpage": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
       "id": 3,
       "version": "1.0.2.3",
       "description": "web app",
       "title": "Mini for Instagram",
       "overview": "The Mini for Instagram application displays the website 'https://instagram.com/' in the native BlackBerry browser.",
       "icon_path": "https://i.postimg.cc/Wb10NzKB/Icon-250x250.png",
-      "url_path": "http://blackworld.zombeek.cz/Mini_for_Instagram.html"
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
+      "html_path": "http://blackworld.zombeek.cz/Mini_for_Instagram.html"
     }
   ],
   "upcoming": [
     {
       "id": 1,
+      "version": "",
       "description": "web app",
       "title": "Mini for Bazoš",
       "completed": "Completed: 0%",
@@ -43,6 +44,7 @@
     },
     {
       "id": 2,
+      "version": "",
       "description": "web app",
       "title": "Mini for Kinohled",
       "completed": "Completed: 0%",
@@ -52,6 +54,7 @@
     },
     {
       "id": 3,
+      "version": "",
       "description": "web app",
       "title": "Mini for Wikipedia",
       "completed": "Completed: 0%",
@@ -61,6 +64,7 @@
     },
     {
       "id": 4,
+      "version": "",
       "description": "web app",
       "title": "Mini for Amazon (maybe)",
       "completed": "Completed: 0%",
@@ -70,6 +74,7 @@
     },
     {
       "id": 5,
+      "version": "",
       "description": "web app",
       "title": "Mini for Yelp (maybe)",
       "completed": "Completed: 0%",
@@ -79,6 +84,7 @@
     },
     {
       "id": 6,
+      "version": "",
       "description": "web app",
       "title": "Mini for Imdb",
       "completed": "Completed: 0%",
@@ -88,6 +94,7 @@
     },
     {
       "id": 7,
+      "version": "",
       "description": "web app",
       "title": "Mini for AlliExpress",
       "completed": "Completed: 0%",
@@ -97,6 +104,7 @@
     },
     {
       "id": 8,
+      "version": "",
       "description": "web app",
       "title": "Mini for Pinterest",
       "completed": "Completed: 0%",
@@ -106,6 +114,7 @@
     },
     {
       "id": 9,
+      "version": "",
       "description": "web app",
       "title": "Mini for AlliExpress",
       "completed": "Completed: 0%",
@@ -115,6 +124,7 @@
     },
     {
       "id": 10,
+      "version": "",
       "description": "web app",
       "title": "Mini for Booking",
       "completed": "Completed: 0%",
@@ -124,28 +134,24 @@
     },
     {
       "id": 11,
+      "version": "",
       "description": "web app",
       "title": "Mini for CD",
       "completed": "Completed: 0%",
       "overview": "The Mini for CD application displays the website 'http://m.cd.cz/' in the native BlackBerry browser.",
       "icon_path": "",
       "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-    }
-  ],
-  "beta": [],
-  "apps": [
+    },
     {
-      "id": 1,
-      "version": "1.0.0.1",
-      "description": "web app",
-      "title": "Mini for YouTube",
-      "overview": "The Mini for YouTube application displays the website 'http://m.youtube.com/'' in the native BlackBerrybrowser.",
-      "icon_path": "https://i.postimg.cc/FK9HXWTN/icon-250x250.png",
-      "url_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html",
-      "features": "Now you can keep up with your friends faster than ever.\n See what your friends are doing. Share updates, photos, and videos. Play games and use your favorite apps. Buy and sell locally via Facebook Marketplace. Facebook is only available to users over the age of 13.",
-      "download_size": "91.0 kb",
-      "date_of_publication": "23.11.2019"
+      "id": 12,
+      "version": "",
+      "description": "native app",
+      "title": "Shining smile",
+      "completed": "Completed: 0%",
+      "overview": "App will be remember and write cleane your tooths",
+      "icon_path": "",
+      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
     }
   ],
-  "games": []
+  "beta": []
 }
