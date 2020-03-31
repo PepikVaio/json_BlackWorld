@@ -7,8 +7,7 @@
       "title": "Mini for YouTube",
       "overview": "The Mini for YouTube application displays the website 'http://m.youtube.com/'' in the native BlackBerrybrowser.",
       "icon_path": "https://i.postimg.cc/FK9HXWTN/icon-250x250.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db",
-      "html_path": "http://blackworld.zombeek.cz/Mini_for_YouTube.html"
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db"
     },
     {
       "id": 2,
@@ -17,8 +16,7 @@
       "title": "Mini for Facebook",
       "overview": "The Mini for Facebook application displays the website 'https://touch.facebook.com/' in the native BlackBerry browser.",
       "icon_path": "https://i.postimg.cc/FFqzkxHV/icon-250x250.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_facebook/db",
-      "html_path": "http://blackworld.zombeek.cz/Mini_for_Facebook.html"
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_facebook/db"
     },
     {
       "id": 3,
@@ -27,14 +25,12 @@
       "title": "Mini for Instagram",
       "overview": "The Mini for Instagram application displays the website 'https://instagram.com/' in the native BlackBerry browser.",
       "icon_path": "https://i.postimg.cc/Wb10NzKB/Icon-250x250.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_instagram/db",
-      "html_path": "http://blackworld.zombeek.cz/Mini_for_Instagram.html"
+      "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_instagram/db"
     }
   ],
   "upcoming": [
     {
       "id": 1,
-      "version": "",
       "description": "web app",
       "title": "Mini for Bazoš",
       "completed": "Completed: 0%",
@@ -44,7 +40,6 @@
     },
     {
       "id": 2,
-      "version": "",
       "description": "web app",
       "title": "Mini for Kinohled",
       "completed": "Completed: 0%",
@@ -54,7 +49,6 @@
     },
     {
       "id": 3,
-      "version": "",
       "description": "web app",
       "title": "Mini for Wikipedia",
       "completed": "Completed: 0%",
@@ -64,7 +58,6 @@
     },
     {
       "id": 4,
-      "version": "",
       "description": "web app",
       "title": "Mini for Amazon (maybe)",
       "completed": "Completed: 0%",
@@ -74,7 +67,6 @@
     },
     {
       "id": 5,
-      "version": "",
       "description": "web app",
       "title": "Mini for Yelp (maybe)",
       "completed": "Completed: 0%",
@@ -84,7 +76,6 @@
     },
     {
       "id": 6,
-      "version": "",
       "description": "web app",
       "title": "Mini for Imdb",
       "completed": "Completed: 0%",
@@ -94,7 +85,6 @@
     },
     {
       "id": 7,
-      "version": "",
       "description": "web app",
       "title": "Mini for AlliExpress",
       "completed": "Completed: 0%",
@@ -104,7 +94,6 @@
     },
     {
       "id": 8,
-      "version": "",
       "description": "web app",
       "title": "Mini for Pinterest",
       "completed": "Completed: 0%",
@@ -114,7 +103,6 @@
     },
     {
       "id": 9,
-      "version": "",
       "description": "web app",
       "title": "Mini for AlliExpress",
       "completed": "Completed: 0%",
@@ -124,7 +112,6 @@
     },
     {
       "id": 10,
-      "version": "",
       "description": "web app",
       "title": "Mini for Booking",
       "completed": "Completed: 0%",
@@ -134,7 +121,6 @@
     },
     {
       "id": 11,
-      "version": "",
       "description": "web app",
       "title": "Mini for CD",
       "completed": "Completed: 0%",
@@ -144,7 +130,6 @@
     },
     {
       "id": 12,
-      "version": "",
       "description": "native app",
       "title": "Shining smile",
       "completed": "Completed: 0%",
