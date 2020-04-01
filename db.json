@@ -138,5 +138,15 @@
       "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
     }
   ],
-  "beta": []
+  "beta": [
+    {
+      "id": 1,
+      "version": "n/a",
+      "description": "n/a",
+      "title": "n/a",
+      "overview": "n/a",
+      "icon_path": "",
+      "url_path": ""
+    }
+  ]
 }
