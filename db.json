@@ -31,108 +31,108 @@
   "upcoming": [
     {
       "id": 1,
+      "completed": "Completed: 0%",
       "description": "web app",
       "title": "Mini for Bazoš",
-      "completed": "Completed: 0%",
       "overview": "The Mini for Bazoš application displays the website 'http://bazos.cz/' in the native BlackBerry browser.",
       "icon_path": "",
       "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
     },
     {
       "id": 2,
+      "completed": "Completed: 0%",
       "description": "web app",
       "title": "Mini for Kinohled",
-      "completed": "Completed: 0%",
       "overview": "The Mini for Kinohled application displays the website 'http://kinohled.cz/' in the native BlackBerry browser.",
       "icon_path": "",
       "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
     },
     {
       "id": 3,
+      "completed": "Completed: 0%",
       "description": "web app",
       "title": "Mini for Wikipedia",
-      "completed": "Completed: 0%",
       "overview": "The Mini for Wikipedia application displays the website 'http://wikipedia.org/' in the native BlackBerry browser.",
       "icon_path": "",
       "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
     },
     {
       "id": 4,
+      "completed": "Completed: 0%",
       "description": "web app",
       "title": "Mini for Amazon (maybe)",
-      "completed": "Completed: 0%",
       "overview": "The Mini for Amazon application displays the website 'http://amazon.com/' in the native BlackBerry browser.",
       "icon_path": "",
       "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
     },
     {
       "id": 5,
+      "completed": "Completed: 0%",
       "description": "web app",
       "title": "Mini for Yelp (maybe)",
-      "completed": "Completed: 0%",
       "overview": "The Mini for Yelp application displays the website 'http://m.yelp.com/' in the native BlackBerry browser.",
       "icon_path": "",
       "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
     },
     {
       "id": 6,
+      "completed": "Completed: 0%",
       "description": "web app",
       "title": "Mini for Imdb",
-      "completed": "Completed: 0%",
       "overview": "The Mini for Imdb application displays the website 'http://m.imdb.com/' in the native BlackBerry browser.",
       "icon_path": "",
       "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
     },
     {
       "id": 7,
+      "completed": "Completed: 0%",
       "description": "web app",
       "title": "Mini for AlliExpress",
-      "completed": "Completed: 0%",
       "overview": "The Mini for AlliExpress application displays the website 'http://alliexpress.com/' in the native BlackBerry browser.",
       "icon_path": "",
       "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
     },
     {
       "id": 8,
+      "completed": "Completed: 0%",
       "description": "web app",
       "title": "Mini for Pinterest",
-      "completed": "Completed: 0%",
       "overview": "The Mini for Pinterest application displays the website 'http://pinterest.com/' in the native BlackBerry browser.",
       "icon_path": "",
       "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
     },
     {
       "id": 9,
+      "completed": "Completed: 0%",
       "description": "web app",
       "title": "Mini for AlliExpress",
-      "completed": "Completed: 0%",
       "overview": "The Mini for AlliExpress application displays the website 'http://alliexpress.com/' in the native BlackBerry browser.",
       "icon_path": "",
       "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
     },
     {
       "id": 10,
+      "completed": "Completed: 0%",
       "description": "web app",
       "title": "Mini for Booking",
-      "completed": "Completed: 0%",
       "overview": "The Mini for Booking application displays the website 'http://booking.com/' in the native BlackBerry browser.",
       "icon_path": "",
       "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
     },
     {
       "id": 11,
+      "completed": "Completed: 0%",
       "description": "web app",
       "title": "Mini for CD",
-      "completed": "Completed: 0%",
       "overview": "The Mini for CD application displays the website 'http://m.cd.cz/' in the native BlackBerry browser.",
       "icon_path": "",
       "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
     },
     {
       "id": 12,
+      "completed": "Completed: 0%",
       "description": "native app",
       "title": "Shining smile",
-      "completed": "Completed: 0%",
       "overview": "App will be remember and write cleane your tooths",
       "icon_path": "",
       "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
