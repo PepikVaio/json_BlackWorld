@@ -6,7 +6,7 @@
       "description": "web app",
       "title": "Mini for YouTube",
       "overview": "The Mini for YouTube application displays the website 'http://m.youtube.com/'' in the native BlackBerrybrowser.",
-      "icon_path": "https://i.postimg.cc/BnH3SWzF/icon-5000x500.png",
+      "icon_path": "https://i.postimg.cc/SQThqsz9/icon-200x200.png",
       "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db"
     },
     {
@@ -15,7 +15,7 @@
       "description": "web app",
       "title": "Mini for Facebook",
       "overview": "The Mini for Facebook application displays the website 'https://touch.facebook.com/' in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/YqRtv3Vv/icon-144x144.png",
+      "icon_path": "https://i.postimg.cc/zDcG7p74/icon-300x300.png",
       "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_facebook/db"
     },
     {
@@ -24,7 +24,7 @@
       "description": "web app",
       "title": "Mini for Instagram",
       "overview": "The Mini for Instagram application displays the website 'https://instagram.com/' in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/mrxpBxwC/icon-200x200.png",
+      "icon_path": "https://i.postimg.cc/NG1HP3yZ/Icon-200x200.png",
       "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_instagram/db"
     }
   ],
