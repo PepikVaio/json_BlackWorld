@@ -5,7 +5,7 @@
       "version": "1.0.0.1",
       "description": "web app",
       "title": "Mini for YouTube",
-      "overview": "App displays m.youtube.com in native blackberry browser.",
+      "overview": "App displays website m.youtube.com in native blackberry browser.",
       "icon_path": "https://i.postimg.cc/158ZzQpj/icon-300x300.png",
       "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_youtube/db"
     },
