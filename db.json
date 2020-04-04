@@ -15,7 +15,7 @@
       "description": "web app",
       "title": "Mini for Facebook",
       "overview": "The Mini for Facebook application displays the website 'https://touch.facebook.com/' in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/x8hjdTq9/icon-200x200.png",
+      "icon_path": "https://i.postimg.cc/zDcG7p74/icon-300x300.png",
       "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_facebook/db"
     },
     {
@@ -24,7 +24,7 @@
       "description": "web app",
       "title": "Mini for Instagram",
       "overview": "The Mini for Instagram application displays the website 'https://instagram.com/' in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/NG1HP3yZ/Icon-200x200.png",
+      "icon_path": "https://i.postimg.cc/FK8L2mVX/Icon-300x300.png",
       "url_path": "http://my-json-server.typicode.com/pepikvaio/mini_for_instagram/db"
     }
   ],
