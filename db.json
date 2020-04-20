@@ -140,7 +140,7 @@
 			"completed": "Completed: 0%",
 			"description": "web app",
 			"title": "Mini for Kinohled",
-			"overview": "App displays the website kinohled.cz in the native BlackBerry browser.",
+			"overview": " kinohled.cz in the native BlackBerry browser.",
 			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
 			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
 		},
@@ -149,7 +149,7 @@
 			"completed": "Completed: 0%",
 			"description": "web app",
 			"title": "Mini for Kinohled",
-			"overview": "App displays the website kinohled.cz in the native BlackBerry browser.",
+			"overview": "cz in the native BlackBerry browser.",
 			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
 			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
 		},
@@ -158,7 +158,7 @@
 			"completed": "Completed: 0%",
 			"description": "web app",
 			"title": "Mini for Kinohled",
-			"overview": "App displays the website kinohled.cz in the native BlackBerry browser.",
+			"overview": " in the native BlackBerry browser.",
 			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
 			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
 		},
@@ -167,7 +167,7 @@
 			"completed": "Completed: 0%",
 			"description": "web app",
 			"title": "Mini for Kinohled",
-			"overview": "App displays the website kinohled.cz in the native BlackBerry browser.",
+			"overview": ".cz in the native BlackBerry browser.",
 			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
 			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
 		},
@@ -176,7 +176,7 @@
 			"completed": "Completed: 0%",
 			"description": "web app",
 			"title": "Mini for Wikipedia",
-			"overview": "App displays the website wikipedia.org in the native BlackBerry browser.",
+			"overview": " in the native BlackBerry browser.",
 			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
 			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
 		},
@@ -185,7 +185,7 @@
 			"completed": "Completed: 0%",
 			"description": "web app",
 			"title": "Mini for Amazon (maybe)",
-			"overview": "App displays the website amazon.com in the native BlackBerry browser.",
+			"overview": " in the native BlackBerry browser.",
 			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
 			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
 		},
@@ -194,7 +194,7 @@
 			"completed": "Completed: 0%",
 			"description": "web app",
 			"title": "Mini for Yelp (maybe)",
-			"overview": "App displays the website m.yelp.com in the native BlackBerry browser.",
+			"overview": "com in the native BlackBerry browser.",
 			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
 			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
 		},
@@ -203,7 +203,7 @@
 			"completed": "Completed: 0%",
 			"description": "web app",
 			"title": "Mini for Imdb",
-			"overview": "App displays the website m.imdb.com in the native BlackBerry browser.",
+			"overview": " m.imdb.com in the native BlackBerry browser.",
 			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
 			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
 		},
@@ -211,8 +211,8 @@
 			"id": 7,
 			"completed": "Completed: 0%",
 			"description": "web app",
-			"title": "Mini for AlliExpress",
-			"overview": "App displays the website alliexpress.com in the native BlackBerry browser.",
+			"title": "",
+			"overview": ".com in the native BlackBerry browser.",
 			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
 			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
 		},
