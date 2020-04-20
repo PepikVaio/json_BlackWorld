@@ -27,7 +27,7 @@ var url_path = "http://my-json-server.typicode.com/pepikvaio/" + upcoming.url_pa
 ## for beta
 
 ```python
-var icon_path = "https://i.postimg.cc/" + news.beta + "/icon-300x300.png"
+var icon_path = "https://i.postimg.cc/" + beta.icon_path + "/icon-300x300.png"
 var url_path = "http://my-json-server.typicode.com/pepikvaio/" + beta.url_path + "/db"
 ```
 
