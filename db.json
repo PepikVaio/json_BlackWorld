@@ -1,179 +1,283 @@
 {
-  "news": [
-    {
-      "id": 0,
-      "version": "1.0.0.1",
-      "description": "native app",
-      "title": "BlackWorld",
-      "overview": "A new store for your apps for BlackBerry devices.",
-      "icon_path": "https://i.postimg.cc/VL5tcWMY/icon-300x300.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/app_blackworld/db"
-    },
-    {
-      "id": 1,
-      "version": "1.0.0.1",
-      "description": "web app",
-      "title": "Mini for YouTube",
-      "overview": "App displays the website m.youtube.com in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/K8S8sPDp/icon-300x300.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/app_m.youtube/db"
-    },
-    {
-      "id": 2,
-      "version": "1.2.0.4",
-      "description": "web app",
-      "title": "Mini for Facebook",
-      "overview": "App displays the website touch.facebook.com in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/ZqPBL7kL/icon-300x300.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/app_m.facebook/db"
-    },
-    {
-      "id": 3,
-      "version": "1.0.2.3",
-      "description": "web app",
-      "title": "Mini for Instagram",
-      "overview": "App displays the website instagram.com in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/zfN33CLH/icon-300x300.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/app_m.instagram/db"
-    },
-    {
-      "id": 4,
-      "version": "0.0.0.1",
-      "description": "native app",
-      "title": "Test.. APP",
-      "overview": "App was creating for testing webpages.",
-      "icon_path": "https://i.postimg.cc/pL5JDNwK/icon-300x300.png",
-      "url_path": "http://my-json-server.typicode.com/pepikvaio/app_test..app/db"
-    }
-  ],
-  "upcoming": [
-    {
-      "id": 1,
-      "completed": "Completed: 0%",
-      "description": "web app",
-      "title": "Mini for Bazoš",
-      "overview": "App displays the website bazos.cz in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
-      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-    },
-    {
-      "id": 2,
-      "completed": "Completed: 0%",
-      "description": "web app",
-      "title": "Mini for Kinohled",
-      "overview": "App displays the website kinohled.cz in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
-      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-    },
-    {
-      "id": 3,
-      "completed": "Completed: 0%",
-      "description": "web app",
-      "title": "Mini for Wikipedia",
-      "overview": "App displays the website wikipedia.org in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
-      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-    },
-    {
-      "id": 4,
-      "completed": "Completed: 0%",
-      "description": "web app",
-      "title": "Mini for Amazon (maybe)",
-      "overview": "App displays the website amazon.com in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
-      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-    },
-    {
-      "id": 5,
-      "completed": "Completed: 0%",
-      "description": "web app",
-      "title": "Mini for Yelp (maybe)",
-      "overview": "App displays the website m.yelp.com in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
-      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-    },
-    {
-      "id": 6,
-      "completed": "Completed: 0%",
-      "description": "web app",
-      "title": "Mini for Imdb",
-      "overview": "App displays the website m.imdb.com in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
-      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-    },
-    {
-      "id": 7,
-      "completed": "Completed: 0%",
-      "description": "web app",
-      "title": "Mini for AlliExpress",
-      "overview": "App displays the website alliexpress.com in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
-      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-    },
-    {
-      "id": 8,
-      "completed": "Completed: 0%",
-      "description": "web app",
-      "title": "Mini for Pinterest",
-      "overview": "App displays the website pinterest.com in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
-      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-    },
-    {
-      "id": 9,
-      "completed": "Completed: 0%",
-      "description": "web app",
-      "title": "Mini for AlliExpress",
-      "overview": "App displays the website alliexpress.com in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
-      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-    },
-    {
-      "id": 10,
-      "completed": "Completed: 0%",
-      "description": "web app",
-      "title": "Mini for Booking",
-      "overview": "App displays the website booking.com in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
-      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-    },
-    {
-      "id": 11,
-      "completed": "Completed: 0%",
-      "description": "web app",
-      "title": "Mini for CD",
-      "overview": "App displays the website m.cd.cz in the native BlackBerry browser.",
-      "icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
-      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-    },
-    {
-      "id": 12,
-      "completed": "Completed: 0%",
-      "description": "native app",
-      "title": "Shining smile",
-      "overview": "App will be remember and write cleane your tooths",
-      "icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
-      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-    },
-    {
-      "id": 13,
-      "completed": "Completed: 50%",
-      "description": "native app",
-      "title": "TMDB",
-      "overview": "App for search movies, tv shows and peoples.",
-      "icon_path": "https://i.postimg.cc/KjWDyq8M/Icon-300x300.png",
-      "url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
-    }
-  ],
-  "beta": [
-    {
-      "id": 1,
-      "version": "n/a",
-      "description": "n/a",
-      "title": "n/a",
-      "overview": "n/a",
-      "icon_path": "",
-      "url_path": ""
-    }
-  ]
+	"news": [{
+			"id": 0,
+			"version": "1.0.0.1",
+			"description": "native app",
+			"title": "BlackWorld",
+			"overview": "A new store for your apps for BlackBerry devices.",
+			"icon_path": "https://i.postimg.cc/VL5tcWMY/icon-300x300.png",
+			"url_path": "http://my-json-server.typicode.com/pepikvaio/app_blackworld/db"
+		},
+		{
+			"id": 1,
+			"version": "1.0.0.1",
+			"description": "web app",
+			"title": "Mini for YouTube",
+			"overview": "App displays the website m.youtube.com in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/K8S8sPDp/icon-300x300.png",
+			"url_path": "http://my-json-server.typicode.com/pepikvaio/app_m.youtube/db"
+		},
+		{
+			"id": 2,
+			"version": "1.2.0.4",
+			"description": "web app",
+			"title": "Mini for Facebook",
+			"overview": "App displays the website touch.facebook.com in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/ZqPBL7kL/icon-300x300.png",
+			"url_path": "http://my-json-server.typicode.com/pepikvaio/app_m.facebook/db"
+		},
+		{
+			"id": 2,
+			"version": "1.2.0.4",
+			"description": "web app",
+			"title": "Mini for Facebook",
+			"overview": "App displays the website touch.facebook.com in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/ZqPBL7kL/icon-300x300.png",
+			"url_path": "http://my-json-server.typicode.com/pepikvaio/app_m.facebook/db"
+		},
+		{
+			"id": 2,
+			"version": "1.2.0.4",
+			"description": "web app",
+			"title": "Mini for Facebook",
+			"overview": "App displays the website touch.facebook.com in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/ZqPBL7kL/icon-300x300.png",
+			"url_path": "http://my-json-server.typicode.com/pepikvaio/app_m.facebook/db"
+		},
+		{
+			"id": 2,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for Kinohled",
+			"overview": "App displays the website kinohled.cz in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 2,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for Kinohled",
+			"overview": "App displays the website kinohled.cz in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 2,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for Kinohled",
+			"overview": "App displays the website kinohled.cz in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 3,
+			"version": "1.0.2.3",
+			"description": "web app",
+			"title": "Mini for Instagram",
+			"overview": "App displays the website instagram.com in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/zfN33CLH/icon-300x300.png",
+			"url_path": "http://my-json-server.typicode.com/pepikvaio/app_m.instagram/db"
+		},
+		{
+			"id": 4,
+			"version": "0.0.0.1",
+			"description": "native app",
+			"title": "Test.. APP",
+			"overview": "App was creating for testing webpages.",
+			"icon_path": "https://i.postimg.cc/pL5JDNwK/icon-300x300.png",
+			"url_path": "http://my-json-server.typicode.com/pepikvaio/app_test..app/db"
+		}
+	],
+	"upcoming": [{
+			"id": 1,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for Bazoš",
+			"overview": "App displays the website bazos.cz in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 2,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for Kinohled",
+			"overview": "App displays the website kinohled.cz in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 2,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for Kinohled",
+			"overview": "App displays the website kinohled.cz in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 2,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for Kinohled",
+			"overview": "App displays the website kinohled.cz in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 2,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for Kinohled",
+			"overview": "App displays the website kinohled.cz in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 2,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for Kinohled",
+			"overview": "App displays the website kinohled.cz in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 2,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for Kinohled",
+			"overview": "App displays the website kinohled.cz in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 2,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for Kinohled",
+			"overview": "App displays the website kinohled.cz in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 2,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for Kinohled",
+			"overview": "App displays the website kinohled.cz in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 3,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for Wikipedia",
+			"overview": "App displays the website wikipedia.org in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 4,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for Amazon (maybe)",
+			"overview": "App displays the website amazon.com in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 5,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for Yelp (maybe)",
+			"overview": "App displays the website m.yelp.com in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 6,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for Imdb",
+			"overview": "App displays the website m.imdb.com in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 7,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for AlliExpress",
+			"overview": "App displays the website alliexpress.com in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 8,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for Pinterest",
+			"overview": "App displays the website pinterest.com in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 9,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for AlliExpress",
+			"overview": "App displays the website alliexpress.com in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 10,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for Booking",
+			"overview": "App displays the website booking.com in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 11,
+			"completed": "Completed: 0%",
+			"description": "web app",
+			"title": "Mini for CD",
+			"overview": "App displays the website m.cd.cz in the native BlackBerry browser.",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 12,
+			"completed": "Completed: 0%",
+			"description": "native app",
+			"title": "Shining smile",
+			"overview": "App will be remember and write cleane your tooths",
+			"icon_path": "https://i.postimg.cc/dtS87xvk/icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		},
+		{
+			"id": 13,
+			"completed": "Completed: 50%",
+			"description": "native app",
+			"title": "TMDB",
+			"overview": "App for search movies, tv shows and peoples.",
+			"icon_path": "https://i.postimg.cc/KjWDyq8M/Icon-300x300.png",
+			"url_path": "http://blackworld.zombeek.cz/In_reconstruction.html"
+		}
+	],
+	"beta": [{
+		"id": 1,
+		"version": "n/a",
+		"description": "n/a",
+		"title": "n/a",
+		"overview": "n/a",
+		"icon_path": "",
+		"url_path": ""
+	}]
 }
