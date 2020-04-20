@@ -1,4 +1,4 @@
-# Json for BlackWorld
+# Json for BlackWorld News
 ...
 
 
