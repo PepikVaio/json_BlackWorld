@@ -3,7 +3,9 @@
 http://my-json-server.typicode.com/pepikvaio/json_blackworldnews/db
 
 // for news
+
 // var icon_path = "https://i.postimg.cc/" + news.icon_path + "/icon-300x300.png"
+
 // var url_path = "http://my-json-server.typicode.com/pepikvaio/" + news.url_path + "/db"
 
 
