@@ -30,9 +30,6 @@ https://postimages.org/
 http://myjson.com/
 
 
-## License
-Wajsar Josef
-
 
  
 
