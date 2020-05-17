@@ -1,7 +1,7 @@
 {
   "news": [
     {
-      "date": "2019.05.01",
+      "date": "2020-05-17",
       "description": "native app",
       "download_path": "",
       "icon_path": "VL5tcWMY",
@@ -12,7 +12,7 @@
       "version": "1.0.0.1"
     },
     {
-      "date": "2018.05.02",
+      "date": "2019-05-10",
       "description": "web app",
       "download_path": "",
       "icon_path": "K8S8sPDp",
@@ -23,7 +23,7 @@
       "version": "1.0.0.1"
     },
     {
-      "date": "2020.05.03",
+      "date": "2020-05-09",
       "description": "web app",
       "download_path": "",
       "icon_path": "ZqPBL7kL",
@@ -34,7 +34,7 @@
       "version": "1.2.0.4"
     },
     {
-      "date": "2020.05.04",
+      "date": "2020-03-17",
       "description": "web app",
       "download_path": "",
       "icon_path": "zfN33CLH",
@@ -45,7 +45,7 @@
       "version": "1.0.2.3"
     },
     {
-      "date": "2020.05.05",
+      "date": "2020-01-17",
       "description": "native app",
       "download_path": "",
       "icon_path": "pL5JDNwK",
